@@ -2,4 +2,4 @@
 
 ## The Verifiable Health Data Marketplace
 
-[![CureLedger Whitepaper](Image URL)](https://rymedi-organization.github.io/Cureledger/)
+[![CureLedger Whitepaper](https://github.com/RYMEDI-Organization/Cureledger/blob/main/whitepaper-preview)](https://rymedi-organization.github.io/Cureledger/)
