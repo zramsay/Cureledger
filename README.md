@@ -1,2 +1,4 @@
-# CureLedger: The Verifiable Health Data Marketplace
+# CureLedger
+
+## The Verifiable Health Data Marketplace
 
